@@ -16,7 +16,7 @@ export default function Home() {
         }}
       />
       <Head>
-        <title>Create Next App</title>
+        <title>nine4</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
